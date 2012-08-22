@@ -14,10 +14,12 @@ Open Source Community Growth as a User Experience Problem
 Open Hatch
 ==========
 
-+ bit.ly/oh-cookbook
-+ openhatch.org
 + Open source community help
-+ user experience design
++ User experience design
++ Links
+
+  + http://bit.ly/oh-cookbook
+  + http://openhatch.org
 
 Improving User Experience
 =========================
