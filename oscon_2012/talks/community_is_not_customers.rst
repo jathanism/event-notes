@@ -18,4 +18,4 @@ The Gist
 + "He who owns the developer base owns the market."
 + What do you want from the community?
 + Bees vs. Community - James Dixon's beekeeper model: `The Bees and the Trees
-  <http://jamesdixon.wordpress.com/the-bees-and-the-trees/>`.
+  <http://jamesdixon.wordpress.com/the-bees-and-the-trees/>`_.
