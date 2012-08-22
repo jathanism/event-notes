@@ -15,7 +15,8 @@ Talks
 =====
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :glob:
 
    talks/*
 
@@ -23,6 +24,7 @@ Exhibitors
 ==========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :glob:
 
    exhibitors/*
