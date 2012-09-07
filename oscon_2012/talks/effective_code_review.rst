@@ -63,6 +63,6 @@ Tips
 + Solo projects are no exception!
 + Try providing feedback to others and asking for feedback in trade
 + Don't try to define goals, but rather track your direction
-  + "This is the direction we're going... are we ok with it?"
-    VS.
+
+  + "This is the direction we're going... are we ok with it?" vs.
   + "We should have 173 lines of code per developer per day"

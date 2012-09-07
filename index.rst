@@ -16,6 +16,7 @@ Conferences
    :maxdepth: 1
 
    oscon_2012/index
+   blackhat_2012/index
 
 Credits
 =======
