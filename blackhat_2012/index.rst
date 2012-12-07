@@ -19,12 +19,3 @@ Talks
    :glob:
 
    talks/*
-
-Exhibitors
-==========
-
-.. toctree::
-   :maxdepth: 1
-   :glob:
-
-   exhibitors/*
