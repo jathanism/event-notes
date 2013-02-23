@@ -17,6 +17,7 @@ Conferences
 
    oscon_2012/index
    blackhat_2012/index
+   scale11x/index
 
 Credits
 =======
