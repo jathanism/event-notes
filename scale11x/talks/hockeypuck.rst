@@ -110,11 +110,13 @@ Building Trust
 ==============
 
 + Add multiple factos to a key exch
+ 
   - rendezvous for key exchange
   - identites beyond email (e.g. facebook)
 
 + Keep keyservers distributed
-  - Promot diversity, avoid monoculture
+
+  - Promote diversity, avoid monoculture
 
 Identity Management
 ===================
@@ -136,6 +138,7 @@ Identity Management
   - "Hey, this key server burned me!"
   
 + Decide for yourself
+
   - Group-level visibility, certifications
 
 SSH
