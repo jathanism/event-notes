@@ -79,12 +79,15 @@ Performance
 + For hstore, raw, GiST, and GIN are tested
 + For XML, JSON, MongoDB index type is expression index
 
+==========  ======  =====  ======  ==========
 Type        Index   Load   Disk    Query (pk)
+==========  ======  =====  ======  ==========
 relational  pk      1      6       2 
 hstore      GiST    2,5,7  2,3,7   5,6,7
 XML         expr    6      4       3
 JSON        expr    3      5       1
 MongoDB     expr    4      1       4
+==========  ======  =====  ======  ==========
 
 + Query by name: hstore(GIN) is #1, JSON is #6
 + Query by pk: JSON is #1! (Thanks V8!)
