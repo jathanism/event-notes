@@ -47,14 +47,14 @@ World Tour
 .ini format
 -----------
 
-  - Not really a standard; informatl standard
-  - Implementations vary (white space, blank lines, etc.)
-  - Status:
++ Not really a standard; informatl standard
++ Implementations vary (white space, blank lines, etc.)
++ Status:
 
-    * Composable? Highly!
-    * Readable? If you're consistent
-    * Exchangable? If you keep the encoding the same
-    * Discoverable? Mostly, depending on developer
+  - Composable? Highly!
+  - Readable? If you're consistent
+  - Exchangable? If you keep the encoding the same
+  - Discoverable? Mostly, depending on developer
 
 Custom formats
 --------------
