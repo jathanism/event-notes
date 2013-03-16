@@ -74,7 +74,10 @@ TOML?
 -----
 
 + New kid on the block
-+ By Tom from GitHub (which may lend to popularity) github.com/tombo/toml
++ By Tom from GitHub (which may lend to popularity)
+
+  - http://github.com/mojombo/toml
+
 + Like ini, but supports cascading/nesting
 + Inline comments, datetimes, integers, lists, booleans 
 + Strings should be UTF-8, single-line and double-quoted
