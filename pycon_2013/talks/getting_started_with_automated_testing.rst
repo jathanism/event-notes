@@ -83,6 +83,13 @@ Why Tests?
 Types of Tests
 ==============
 
++ Doctest is not recommended
+
+  - Fragile
+  - No isolation
+  - Harder to maintain
+  - Good for testing your documentation, but that's it!
+
 Unit Tests
 ----------
 
@@ -143,8 +150,8 @@ See Also
 + Selenium - browser automation
 + http://pytest.org
 
-Coding with Test
-================
+Coding with Tests
+=================
 
 + Fun and satisfying!
 + Replaces fear w/ moxy.
