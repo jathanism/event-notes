@@ -101,7 +101,7 @@ The Code
 
 .. literalinclude:: circle.py
 
-Sumamry
+Summary
 =======
 
 1. Always inherit from object
