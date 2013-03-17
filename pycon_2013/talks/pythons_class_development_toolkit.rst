@@ -99,7 +99,7 @@ Start coding
 The Code
 ========
 
-.. include:: circle.py
+.. literalinclude:: circle.py
 
 Sumamry
 =======
